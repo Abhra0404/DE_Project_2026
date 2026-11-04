@@ -1,0 +1,11 @@
+{
+  "team_number": "T0082",
+  "group_lead": { "name": "Abhra Jaiswal", "enrollment_no": "2501010020", "github": "Abhra0404" },
+  "members": [
+    { "name": "Ahmad Ibni Shafi", "enrollment_no": "2501010037", "github": "Ahmad-Ibni-Shafi" },
+    { "name": "Aamir Hamza", "enrollment_no": "2501010546", "github": "Aamirhamza12" },
+    { "name": "Kishan Kumar", "enrollment_no": "2501010225", "github": "kishan0005" }
+  ],
+  "postgres_version": "18.6",
+  "laptop_used_for_benchmarks": "MacBook Pro, Apple M4, 16GB RAM"
+}
