@@ -6,3 +6,6 @@ seed_data/
 
 # Temporary files
 *.log
+
+# Benchmark query plans
+benchmarks/results/**/*.txt
