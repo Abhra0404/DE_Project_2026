@@ -1,0 +1,8 @@
+# Extracted dataset
+seed_data/
+
+# macOS files
+.DS_Store
+
+# Temporary files
+*.log
